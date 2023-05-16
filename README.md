@@ -11,8 +11,8 @@ This is a boilerplate project for quickly setting up a Node.js Express server wi
 
 ## Prerequisites
 
-- Node.js (version X.X.X)
-- npm (version X.X.X)
+- Node.js (16+)
+- npm 
 
 ## Getting Started
 
