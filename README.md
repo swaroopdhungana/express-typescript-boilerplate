@@ -30,7 +30,6 @@ This is a boilerplate project for quickly setting up a Node.js Express server wi
    
 # Project Structure
 
-Copy code
 ├── src
 │   └── server.ts
 ├── .gitignore
@@ -38,6 +37,7 @@ Copy code
 ├── README.md
 ├── tsconfig.json
 └── nodemon.json
+
 The src directory contains the main source code files.
 The server.ts file is the entry point for your Express server.
 The .gitignore file specifies which files and directories to ignore when committing changes to Git.
