@@ -17,7 +17,7 @@ This is a boilerplate project for quickly setting up a Node.js Express server wi
 ## Getting Started
 
 1. Clone the repository:  
-   git clone https://github.com/your-username/express-typescript-boilerplate.git
+   git clone gh repo clone notori0usss/express-typescript-boilerplate
    
 2. Navigate to the project's directory:
    cd express-typescript-boilerplate
